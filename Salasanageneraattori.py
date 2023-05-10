@@ -24,14 +24,14 @@ while True:
 
 while True:          
     numerot = input("Haluatko mukaan numeroita? (y/n): ")
-    if isot == "y" or isot == "n":
+    if numerot == "y" or numerot == "n":
         break
     else:
         print("En ymmärrä. Yritä uudestaan!")
 
 while True:          
     erikoismerkit = input("Haluatko mukaan erikoismerkkejä? (y/n): ")
-    if isot == "y" or isot == "n":
+    if erikoismerkit == "y" or erikoismerkit == "n":
         break
     else:
         print("En ymmärrä. Yritä uudestaan!")
