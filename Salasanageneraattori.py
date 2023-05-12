@@ -55,6 +55,6 @@ if erikoismerkit == "y":
 for i in range(pituus):
     salasana += choice(merkit_mukaan)
 
-print(salasana)
+print("Salasanasi on: " + salasana)
 
 
